@@ -1,4 +1,4 @@
-# Mental Health in Tech — Employee Segmentation
+# Mental Health in Tech Employee Segmentation
 
 **Author:** Daniela de Sousa Silva
 
